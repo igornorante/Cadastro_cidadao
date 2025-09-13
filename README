@@ -1,0 +1,26 @@
+# Passo a passo para executar o projeto Cadastro de Cidadão
+
+## 1. Pré-requisitos
+
+- **.NET SDK 6.0 ou superior**  
+  Instale com:
+
+  - sudo apt update
+  - sudo apt install dotnet-sdk-9.0
+
+  - Ou baixe do site oficial: https://dotnet.microsoft.com/download
+
+## 2. Compilar o projeto
+
+- dotnet build
+
+
+## 3. Executar o servidor
+
+- dotnet run
+
+## 4. Acessar a aplicação
+
+- Abra o navegador e acesse:
+
+- http://localhost:8080

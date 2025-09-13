@@ -1,0 +1,15 @@
+/home/igor-ac-cio/Área de trabalho/cadastro_c/obj/Debug/net9.0/cadastro_c.GeneratedMSBuildEditorConfig.editorconfig
+/home/igor-ac-cio/Área de trabalho/cadastro_c/obj/Debug/net9.0/cadastro_c.AssemblyInfoInputs.cache
+/home/igor-ac-cio/Área de trabalho/cadastro_c/obj/Debug/net9.0/cadastro_c.AssemblyInfo.cs
+/home/igor-ac-cio/Área de trabalho/cadastro_c/obj/Debug/net9.0/cadastro_c.csproj.CoreCompileInputs.cache
+/home/igor-ac-cio/Área de trabalho/cadastro_c/bin/Debug/net9.0/cadastro_c
+/home/igor-ac-cio/Área de trabalho/cadastro_c/bin/Debug/net9.0/index.html
+/home/igor-ac-cio/Área de trabalho/cadastro_c/obj/Debug/net9.0/cadastro_c.dll
+/home/igor-ac-cio/Área de trabalho/cadastro_c/obj/Debug/net9.0/refint/cadastro_c.dll
+/home/igor-ac-cio/Área de trabalho/cadastro_c/obj/Debug/net9.0/cadastro_c.pdb
+/home/igor-ac-cio/Área de trabalho/cadastro_c/bin/Debug/net9.0/cadastro_c.deps.json
+/home/igor-ac-cio/Área de trabalho/cadastro_c/bin/Debug/net9.0/cadastro_c.runtimeconfig.json
+/home/igor-ac-cio/Área de trabalho/cadastro_c/bin/Debug/net9.0/cadastro_c.dll
+/home/igor-ac-cio/Área de trabalho/cadastro_c/bin/Debug/net9.0/cadastro_c.pdb
+/home/igor-ac-cio/Área de trabalho/cadastro_c/obj/Debug/net9.0/cadastro_c.genruntimeconfig.cache
+/home/igor-ac-cio/Área de trabalho/cadastro_c/obj/Debug/net9.0/ref/cadastro_c.dll
